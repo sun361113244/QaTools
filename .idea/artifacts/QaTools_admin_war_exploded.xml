@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="QaTools_admin:war exploded">
+    <output-path>$PROJECT_DIR$/QaTools_admin/target/QaTools_Admin</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="QaTools_admin" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/QaTools_admin/target/QaTools_Admin/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="QaTools_admin/web/Web" />
+    </root>
+  </artifact>
+</component>

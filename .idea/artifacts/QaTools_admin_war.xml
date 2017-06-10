@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="QaTools_admin:war">
+    <output-path>$PROJECT_DIR$/QaTools_admin/target</output-path>
+    <root id="archive" name="QaTools_Admin.war">
+      <element id="artifact" artifact-name="QaTools_admin:war exploded" />
+    </root>
+  </artifact>
+</component>
