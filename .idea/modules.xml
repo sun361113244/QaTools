@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/QaTools.iml" filepath="$PROJECT_DIR$/QaTools.iml" />
       <module fileurl="file://$PROJECT_DIR$/QaTools_admin/QaTools_admin.iml" filepath="$PROJECT_DIR$/QaTools_admin/QaTools_admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_generator/mybatis_generator.iml" filepath="$PROJECT_DIR$/mybatis_generator/mybatis_generator.iml" />
     </modules>
   </component>
 </project>
